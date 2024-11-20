@@ -2,7 +2,7 @@
 
 👋 Hi there! I’m **@ByteCraft** – a passionate technologist, problem-solver, and lifelong learner with expertise in **Cloud Computing**, **DevOps**, **Engineering**, and **AI/ML**. I thrive on building scalable, resilient infrastructure and leveraging cutting-edge technologies to solve complex challenges.
 
-[![ByteCraft's GitHub stats](https://github-readme-stats.vercel.app/api?username=iscloudready)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
+[![ByteCraft's GitHub stats](https://github-readme-stats.vercel.app/api?username=iscloudready)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
 
 ## 👀 What I’m Interested In
 - **Cloud Solutions**: Designing secure, efficient, and cost-effective cloud architectures for modern applications.

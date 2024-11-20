@@ -9,7 +9,21 @@
 [![Pull Requests](https://img.shields.io/badge/pull%20requests-197%20open-blue)](#)
 [![OpenSSF Scorecard](https://img.shields.io/badge/openssf%20scorecard-7.2-yellowgreen)](#)
 
+## Skills
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+## GitHub Stats
+
 [![ByteCraft's GitHub stats](https://github-readme-stats.vercel.app/api?username=iscloudready&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iscloudready&layout=compact&theme=radical)
 
 ## 👀 What I’m Interested In
 - **Cloud Solutions**: Designing secure, efficient, and cost-effective cloud architectures for modern applications.
